@@ -1,7 +1,7 @@
 <div align="center">
   <br>
   <img alt="FurAdvisor" src="https://raw.githubusercontent.com/MathFrank99/FurAdvisor-Releases/master/images/logo.png" width="300px">
-  <h1> Quickly spot the safest memecoins and avoid risks with Fur-advisor!</h1>
+  <h1> Quickly spot the safest memecoins and avoid risks!</h1>
 
 </div>
 <br>
