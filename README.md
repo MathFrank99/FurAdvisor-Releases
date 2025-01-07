@@ -51,7 +51,7 @@ Currently unpublished until a new version will be approved. Currently it is pend
 ## 💻 How to install unpacked extension on Chrome, Brave, Edge, Opera V2.0 (NEW)
 
 - Download the Release 0.0.1 zip file , unzip it, and load the unziped folder into your browser.
-- <a href="https://github.com/MathFrank99/FurAdvisor-Releases/releases/tag/release0.0.1
+- <a href="https://github.com/MathFrank99/FurAdvisor-Releases/releases/tag/Release0.0.1
 ">Link here</a>
 
 ## 🏦 Supported Marketplaces
