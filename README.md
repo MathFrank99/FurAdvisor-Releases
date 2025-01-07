@@ -53,6 +53,8 @@ Currently unpublished until a new version will be approved. Currently it is pend
 - Download the Release 0.0.1 zip file , unzip it, and load the unziped folder into your browser.
 - <a href="https://github.com/MathFrank99/FurAdvisor-Releases/releases/tag/Release0.0.1
 ">Link here</a>
+- <a href="https://www.youtube.com/watch?v=oswjtLwCUqg
+">Watch Tutorial how to install here</a>
 
 ## 🏦 Supported Marketplaces
 
