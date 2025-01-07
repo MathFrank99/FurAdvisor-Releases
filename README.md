@@ -65,7 +65,7 @@ Currently unpublished until a new version will be approved. Currently it is pend
 | photon-sol.tinyastro.io   | ✅     |
 | pump.fun.com              | ✅     |
 
-## 📊 Supported Ranking Tools
+## 📊 Supported Tools
 
 | Tool Site                   | Status |
 | --------------------------- | ------ |
