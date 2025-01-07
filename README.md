@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/github/v/release/MathFrank99/FurAdvisor-Releases.svg?style=flat" alt="GitHub Release">
   </a>
   <a href="https://twitter.com/FurAdvisor">
-    <img src="https://img.shields.io/twitter/follow/FurAdvisor?label=Follow&style=social" alt="Twitter">
+    <img src="https://img.shields.io/twitter/follow/fur_nancial_dog?label=Follow&style=social" alt="Twitter">
   </a>
 </p>
 
@@ -91,5 +91,5 @@ Currently unpublished until a new version will be approved. Currently it is pend
 
 ## 🎯 Release History
 
-- 1.0 Initial Version
+- 0.0.1 Initial Version
 
