@@ -13,7 +13,7 @@
   <a href="https://github.com/MathFrank99/FurAdvisor-Releases/releases">
     <img src="https://img.shields.io/github/v/release/MathFrank99/FurAdvisor-Releases.svg?style=flat" alt="GitHub Release">
   </a>
-  <a href="https://twitter.com/FurAdvisor">
+  <a href="https://twitter.com/fur_nancial_dog">
     <img src="https://img.shields.io/twitter/follow/fur_nancial_dog?label=Follow&style=social" alt="Twitter">
   </a>
 </p>
