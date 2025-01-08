@@ -24,33 +24,33 @@ Fur-advisor helps you spot memecoin risks and make informed decisions, all direc
 
 ## 🔥 Features
 
-- Show bundles with automatic ca extraction on supported marketplaces.
+- Show bundles with automatic CA extraction on supported marketplaces.
 
 ## 📖 Extension Settings
 
 - The extension pop-up allows you to :
   - Visualize bundles. For the supported websites the ca is extracted automatically. You also have the option to enter it manually if this fails.
   - Enable/Disable showing empty bundles.
-  - Enable/Disable type of bundles you want to see:
+  - Enable/Disable the type of bundles you want to see:
     - Team Bundles
     - Regular Bundles
-    - New wallet Bundles - Wallets created less then 1 day ago or have less then 25 transactions
+    - New wallet Bundles - Wallets created less than 1 day ago or have less than 25 transactions
     - Sniper Bundles - 2000+ pumpfun transactions or high ratio
     ![Filters png](images/Filters.png)
   - View creator analysis - be informed if the memecoin creator has created others before and if there are risks associated.
 
-- The extension sidepanel allows you to :
+- The extension side panel allows you to :
   - Same features as the popup.
-  - In addition it will refresh automatically if you switch the tab to view another coin, pulling the data for the new coin.
+  - In addition, it will refresh automatically if you switch the tab to view another coin, pulling the data for the new coin.
     ![SidePanel png](images/SidePanel.png)
 
 ## 💻 How to install on Chrome from Webstore
 
-Currently unpublished until a new version will be approved. Currently it is pending review.
+It is currently unpublished until a new version is approved. Currently, it is pending review.
 
-## 💻 How to install unpacked extension on Chrome, Brave, Edge, Opera V2.0 (NEW)
+## 💻 How to install the unpacked extension on Chrome, Brave, Edge, Opera V2.0 (NEW)
 
-- Download the Release 0.0.1 zip file , unzip it, and load the unziped folder into your browser.
+- Download the Release 0.0.1 zip file, unzip it, and load the unzipped folder into your browser.
 - <a href="https://github.com/MathFrank99/FurAdvisor-Releases/releases/tag/Release0.0.1
 ">Link here</a>
 - <a href="https://www.youtube.com/watch?v=oswjtLwCUqg
@@ -81,13 +81,13 @@ Currently unpublished until a new version will be approved. Currently it is pend
 
 ## 🛎️ Issues
 
-- Check latest release notes. Also please let me know if you find other issues that are not mentioned there. 
+- Check the latest release notes. Also please let me know if you find other issues that are not mentioned there. 
 
 ## 📈 Future developments
 
 - Integrate more tools to help you make informed decisions (This is something that will be done periodically)
 
-- Improve the current Creator analysis to show you previous rugs like you cna see on gmgn.io.
+- Improve the current Creator analysis to show you previous rugs, as you can see on gmgn.io.
 
 - Please let me know any of your wishes
 
