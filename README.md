@@ -46,7 +46,7 @@ Fur-advisor helps you spot memecoin risks and make informed decisions, all direc
 
 ## 💻 How to install on Chrome from Webstore
 
-Go to  <a href="https://github.com/MathFrank99/FurAdvisor-Releases/releases/tag/Release0.0.1](https://chromewebstore.google.com/detail/furadvisor/nimeolmdnonmmlefnfcejhcbkbbcicoj
+Go to  <a href="https://chromewebstore.google.com/detail/furadvisor/nimeolmdnonmmlefnfcejhcbkbbcicoj
 ">Link here</a> and click on Add To Chrome.
 
 ## 💻 How to install the unpacked extension on Chrome, Brave, Edge, Opera V2.0 (NEW)
